@@ -20,7 +20,7 @@ Estoy empezando mi camino en ciencia de datos, aprendiendo herramientas y técni
 
 🌟 **Conecta conmigo:**  
 - [LinkedIn](www.linkedin.com/in/andreacampog)  
-- [Portafolio en GitHub](https://github.com/andreacampog))  
+- [Portafolio en GitHub](https://github.com/andreacampog)
 
 ✨ **Mis metas:**  
 1. Colaborar en proyectos abiertos de ciencia de datos.  
