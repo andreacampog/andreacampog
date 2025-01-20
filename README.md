@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola, soy Andrea Campo! 👋  
+### 🚀 Estudiante de Maestría en Ciencia de Datos | Apasionada por los Datos  
 
-<!--
-**andreacampog/andreacampog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 **Acerca de mí:**  
+Estoy empezando mi camino en ciencia de datos, aprendiendo herramientas y técnicas para transformar datos en conocimiento. Vengo de una formación en ingeniería electrónica y desarrollo front-end, y ahora estoy lista para aplicar esa experiencia al análisis y modelado de datos.  
 
-Here are some ideas to get you started:
+🔍 **Lo que estoy aprendiendo:**  
+- Python (Pandas, Numpy, Matplotlib, Seaborn).
+- Limpieza y análisis de datos con SQL.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Proyectos en desarrollo:**  
+- 📊 Exploración de datos del COVID-19.
+- Caso IATA 
+- Conteo de Palabras (Hadoop y Spark)
+    
+
+💻 **Tecnologías que uso:**  
+- Lenguajes: Python, SQL, HTML, CSS, JavaScript.  
+- Herramientas: Jupyter Notebook, Git, Hadoop, Spark, LinceBI
+
+🌟 **Conecta conmigo:**  
+- [LinkedIn](www.linkedin.com/in/andreacampog)  
+- [Portafolio en GitHub](https://github.com/andreacampog))  
+
+✨ **Mis metas:**  
+1. Colaborar en proyectos abiertos de ciencia de datos.  
+2. Publicar artículos sobre mis aprendizajes en LinkedIn.  
+
