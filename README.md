@@ -1,6 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: black; /* Cambia el fondo a negro */
+      color: white; /* Cambia las letras a blancas */
+      font-family: Arial, sans-serif; /* Establece una fuente limpia y legible */
+    }
+    h1, h3, h4 {
+      color: white; /* Asegura que los encabezados también sean blancos */
+    }
+    p {
+      color: white; /* Hace que el texto en los párrafos también sea blanco */
+    }
+  </style>
+</head>
+<body>
+
 # ¡Hola, soy Andrea Campo! 👋  
 ### 🚀 Estudiante de Sistemas Gerenciales de Ingenieria y cursando materias de la Maestría en Ciencia de Datos | Apasionada por los Datos  
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,4 +55,7 @@ Estoy empezando mi camino en ciencia de datos, aprendiendo herramientas y técni
 ✨ **Mis metas:**  
 1. Colaborar en proyectos abiertos de ciencia de datos.  
 2. Publicar artículos sobre mis aprendizajes en LinkedIn.  
+
+</body>
+</html>
 
