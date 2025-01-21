@@ -1,7 +1,7 @@
 # ¡Hola, soy Andrea Campo! 👋  
 ### 🚀 Estudiante de Sistemas Gerenciales de Ingenieria y cursando materias de la Maestría en Ciencia de Datos | Apasionada por los Datos  
 
-![Universidad Javeriana Cali](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javerianacali.edu.co%2Finstitucional%2Fdocumentos-institucionales%2Fmanual-de-identidad&psig=AOvVaw09PvlDtph-d2ByP7qFgBNk&ust=1737507234540000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj8-f3MhYsDFQAAAAAdAAAAABAE)
+![Universidad Javeriana Cali]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javerianacali.edu.co%2Finstitucional%2Fdocumentos-institucionales%2Fmanual-de-identidad&psig=AOvVaw09PvlDtph-d2ByP7qFgBNk&ust=1737507234540000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj8-f3MhYsDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpUNTzWanT9-Evu1nY6xilAXSqTLjXr93kQ&s)
 
 
 
