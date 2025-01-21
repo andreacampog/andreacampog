@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: black; /* Cambia el fondo a negro */
-      color: white; /* Cambia las letras a blancas */
-      font-family: Arial, sans-serif; /* Establece una fuente limpia y legible */
-    }
-    h1, h3, h4 {
-      color: white; /* Asegura que los encabezados también sean blancos */
-    }
-    p {
-      color: white; /* Hace que el texto en los párrafos también sea blanco */
-    }
-  </style>
-</head>
-<body>
-
 # ¡Hola, soy Andrea Campo! 👋  
 ### 🚀 Estudiante de Sistemas Gerenciales de Ingenieria y cursando materias de la Maestría en Ciencia de Datos | Apasionada por los Datos  
 
@@ -30,32 +11,26 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+📚 <font color="white">**Acerca de mí:**</font>  
+<font color="white">Estoy empezando mi camino en ciencia de datos, aprendiendo herramientas y técnicas para transformar datos en conocimiento. Vengo de una formación en ingeniería electrónica y desarrollo front-end, y ahora estoy lista para aplicar esa experiencia al análisis y modelado de datos.</font>  
 
-📚 **Acerca de mí:**  
-Estoy empezando mi camino en ciencia de datos, aprendiendo herramientas y técnicas para transformar datos en conocimiento. Vengo de una formación en ingeniería electrónica y desarrollo front-end, y ahora estoy lista para aplicar esa experiencia al análisis y modelado de datos.  
+🔍 <font color="white">**Lo que estoy aprendiendo:**</font>  
+<font color="white">- Python (Pandas, Numpy, Matplotlib, Seaborn).</font>  
+<font color="white">- Limpieza y análisis de datos con SQL.</font>  
 
-🔍 **Lo que estoy aprendiendo:**  
-- Python (Pandas, Numpy, Matplotlib, Seaborn).
-- Limpieza y análisis de datos con SQL.  
+🎯 <font color="white">**Proyectos en desarrollo:**</font>  
+<font color="white">- 📊 Exploración de datos del COVID-19.</font>  
+<font color="white">- Caso IATA</font>  
+<font color="white">- Conteo de Palabras (Hadoop y Spark)</font>  
 
-🎯 **Proyectos en desarrollo:**  
-- 📊 Exploración de datos del COVID-19.
-- Caso IATA 
-- Conteo de Palabras (Hadoop y Spark)
-    
+💻 <font color="white">**Tecnologías que uso:**</font>  
+<font color="white">- Lenguajes: Python, SQL, HTML, CSS, JavaScript.</font>  
+<font color="white">- Herramientas: Jupyter Notebook, Git, Hadoop, Spark, LinceBI</font>
 
-💻 **Tecnologías que uso:**  
-- Lenguajes: Python, SQL, HTML, CSS, JavaScript.  
-- Herramientas: Jupyter Notebook, Git, Hadoop, Spark, LinceBI
-
-🌟 **Conecta conmigo:**  
+🌟 <font color="white">**Conecta conmigo:**</font>  
 - [LinkedIn](www.linkedin.com/in/andreacampog)  
 - [Portafolio en GitHub](https://github.com/andreacampog)
 
-✨ **Mis metas:**  
-1. Colaborar en proyectos abiertos de ciencia de datos.  
-2. Publicar artículos sobre mis aprendizajes en LinkedIn.  
-
-</body>
-</html>
-
+✨ <font color="white">**Mis metas:**</font>  
+<font color="white">1. Colaborar en proyectos abiertos de ciencia de datos.</font>  
+<font color="white">2. Publicar artículos sobre mis aprendizajes en LinkedIn.</font>
