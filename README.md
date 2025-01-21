@@ -14,15 +14,16 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 📚 **Acerca de mí:**  
-Estoy empezando mi camino en ciencia de datos, aprendiendo herramientas y técnicas para transformar datos en conocimiento. Vengo de una formación en ingeniería electrónica y desarrollo front-end, y ahora estoy lista para aplicar esa experiencia al análisis y modelado de datos.  
+Estoy empezando mi camino en ciencia de datos, aprendiendo herramientas y técnicas para transformar datos en conocimiento. Vengo de una formación sistemas gerenciales de ingenieria, me gusta el desarrollo front-end y ahora estoy lista para adquirir experiencia en el análisis y modelado de datos.  
 
 🔍 **Lo que estoy aprendiendo:**  
 - Python (Pandas, Numpy, Matplotlib, Seaborn).
 - Limpieza y análisis de datos con SQL.  
 
 🎯 **Proyectos en desarrollo:**  
-- 📊 Exploración de datos del COVID-19.
-- Caso IATA 
+- 📊 [Exploración de datos del COVID-19.] (https://github.com/andreacampog/analisis-covid-19-fase-2)
+- ☕️ [Exploracion de datos ventas de un café](https://github.com/andreacampog/analisis-ventas-cafe)
+- Caso IATA (OLAP)
 - Conteo de Palabras (Hadoop y Spark)
     
 
