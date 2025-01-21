@@ -1,6 +1,4 @@
 
-![Background](https://github.com/andreacampog/andreacampog/blob/main/fondo.png)
-
 # ¡Hola, soy Andrea Campo! 👋  
 ### 🚀 Estudiante de Sistemas Gerenciales de Ingenieria y cursando materias de la Maestría en Ciencia de Datos | Apasionada por los Datos  
 
